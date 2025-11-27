@@ -1,0 +1,7 @@
+Game_name:MEGA-SCHOOL!!!;
+Game_key:110a7d44828c3c6;
+Title_img:操场.jpg;
+Title_bgm:astral ability.mp3;
+Textbox_theme:imss;
+Show_panic:true;
+Game_Logo:操场.jpg;
